@@ -43,3 +43,6 @@
 <h3 align="left">Hi there! Mubashir Mohsin, here. A prospective CS graduate and Machine Learning enthusiast.</h3>
 
 ###
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
