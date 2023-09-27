@@ -52,6 +52,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
+<a href="https://www.datacamp.com/portfolio/mubashirmohsin42884">
+  <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="40" width="140" alt="datacamp logo" />
+</a>
+
 </div>
 
 
@@ -77,8 +81,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+  
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
 
