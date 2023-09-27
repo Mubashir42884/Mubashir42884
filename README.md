@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -40,9 +40,26 @@
 
 ###
 
-<h3 align="left">Hi there! Mubashir Mohsin, here. A prospective CS graduate and Machine Learning enthusiast.</h3>
+<h2 align="center">Hi there! Mubashir Mohsin, here. A prospective CS graduate and Machine Learning enthusiast.</h2>
 
 ###
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+ <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</div>
+<br clear="both">
+
+<div align="center">
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
+</div>
 
 ###
