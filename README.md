@@ -60,9 +60,12 @@
 <h2 align="center">Hi there! Mubashir Mohsin, here. A prospective CS graduate and Machine Learning enthusiast.</h2>
 
 ###
+<br clear="both">
 <div align="center">
- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ <img src="Ciontribution Graph.png" alt="GitHub Contribution Graph" />
 </div>
+
+###
 <br clear="both">
 
 <div align="center">
