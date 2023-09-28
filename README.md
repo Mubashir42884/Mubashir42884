@@ -92,4 +92,19 @@
 
 </div>
 
+<br clear="both">
+<div align="center">
+  <h2>
+    🎂 Birthday: October 12th</br>
+    📧 Email: <a href="mubashir.mohsin.42884@gmail.com"> mubashir.mohsin.42884@gmail.com</a>
+  </h2>
+  
+  <h3>📚 Education and Work:</h3>
+  🎓 B. Sc in Computer Science and Engineering at <a href="https://www.aiub.edu">AIUB </a>(2019-Ongoing)<br/>
+  🎓 Higher Secondary (HSC) & Secondary School (SSC) from <a href="http://www.drmc.edu.bd"> Dhaka Residential Model College</a> (2017-2019)<br/>
+  💼 Information System Consultant (2022-Now)<br/>
+  🎨 Graphic Designer (2017-2020)<br/>
+  💻 Freelancer (2017-Now)<br/>
+</div>
+
 ###
