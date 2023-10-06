@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://www.datacamp.com/portfolio/mubashirmohsin42884">
-  <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="40" width="140" alt="datacamp logo" />
+  <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="35" alt="datacamp logo" />
 </a>
 
 </div>
