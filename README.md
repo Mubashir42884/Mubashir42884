@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
-<a href="https://www.datacamp.com/portfolio/mubashirmohsin42884">
+<a href="https://www.datacamp.com/portfolio/MubasirMohsin42884">
   <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="35" alt="datacamp logo" />
 </a>
 
