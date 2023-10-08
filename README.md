@@ -56,6 +56,10 @@
   <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="35" alt="datacamp logo" />
 </a>
 
+<a href="https://www.kaggle.com/mubashir42884">
+  <img src="https://i.ibb.co/D74YnLL/kaggle-logo-icon.jpg" alt="kaggle-logo-icon" height="35" width="115"/>
+</a>
+
 </div>
 
 
