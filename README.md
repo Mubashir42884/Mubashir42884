@@ -9,6 +9,11 @@
 <img align="left" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY"  /><br/>
 
 ###
+<div align="center">
+  <a href="https://mubashir42884.github.io">
+    <img src="https://i.ibb.co/mvr4bzy/portfolio.png" height="100" alt="gmail logo" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
