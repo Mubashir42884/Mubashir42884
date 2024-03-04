@@ -75,7 +75,7 @@
 ###
 <br clear="both">
 <div align="center">
- <img src="Ciontribution Graph.png" alt="GitHub Contribution Graph" />
+ <img src="Contribution Graph.png" alt="GitHub Contribution Graph" />
 </div>
 
 ###
