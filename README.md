@@ -11,7 +11,7 @@
 ###
 <div align="center">
   <a href="https://mubashir42884.github.io">
-    <img src="Portfolio.png" height="100" alt="Portfolio Link" />
+    <img src="Portfolio Banner.png" height="100" alt="Portfolio Link" />
   </a>
 </div>
 
