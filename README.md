@@ -65,6 +65,9 @@
   <img src="https://i.ibb.co/D74YnLL/kaggle-logo-icon.jpg" alt="kaggle-logo-icon" height="35" width="115"/>
 </a>
 
+<a href="https://orcid.org/0009-0008-7205-0855">
+  <img src="ORCiD.png" alt="orcid-logo-icon" height="35" width="115"/>
+</a>
 </div>
 
 
