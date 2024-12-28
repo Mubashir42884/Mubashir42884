@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Advancing AI: ML, DL, Computer Vision, and Cutting-Edge Research 🧠💡</h2>
+<h2 align="left"> Exploring Thesis-Based MSc Opportunities in Computer Science 🗞<br/> Driving Innovation in AI: ML, DL, Computer Vision, and Advanced Research 💡</h2>
 
 ###
 
@@ -112,8 +112,9 @@
   </h2>
   
   <h3>📚 Education and Work:</h3>
-  🎓 B. Sc in Computer Science and Engineering at <a href="https://www.aiub.edu">AIUB </a>(2019-Ongoing)<br/>
+  🎓 B. Sc in Computer Science and Engineering at <a href="https://www.aiub.edu">AIUB </a>(2020-2024)<br/>
   🎓 Higher Secondary (HSC) & Secondary School (SSC) from <a href="http://www.drmc.edu.bd"> Dhaka Residential Model College</a> (2017-2019)<br/>
+  🧠 Research Enthusiast with a focus on AI, Healthcare, Cybersecurity, and Data Privacy. <br/>
   💼 Information System Consultant (2022-Now)<br/>
   🎨 Graphic Designer (2017-2020)<br/>
   💻 Freelancer (2017-Now)<br/>
