@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left"> Exploring Thesis-Based MSc Opportunities in Computer Science 🎓 <br/> Driving Innovation in AI: ML, DL, Computer Vision, and Advanced Research 💡</h2>
+<h1 align="center"> Exploring Thesis-Based MSc Opportunities in Computer Science 🎓 <br/> Advancing AI in ML, DL, Computer Vision, and Advanced Research 💡</h1>
 
 ###
 
@@ -73,9 +73,12 @@
 
 ###
 
-<h2 align="center">Hi there! Mubashir Mohsin, here. A prospective CS graduate and Machine Learning enthusiast.</h2>
+<h2 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h2>
+<h4 align="left"> Research Interest: AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.</h4>
 
 ###
+
+
 <br clear="both">
 <div align="center">
  <img src="Contribution Graph.png" alt="GitHub Contribution Graph" />
@@ -88,19 +91,19 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 
   ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+  ![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
   
   ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&theme=gruvbox&margin-w=10&margin-h=5&column=3)
   
   ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 </div>
 
