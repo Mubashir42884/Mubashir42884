@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center"> Exploring Thesis-Based MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, Computer Vision, and Advanced Research💡</h1>
+<h1 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h1>
 
 ###
 
