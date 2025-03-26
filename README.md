@@ -1,10 +1,15 @@
 <div align="center">
-  <h2>✨ Featured Projects ✨</h2>
+  <h1>✨ Featured Repositories ✨</h1>
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/Mubashir42884/Computer-Vision">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" alt="#1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
         </a>
       </td>
       <td align="center">
@@ -15,17 +20,10 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
@@ -50,30 +48,30 @@
 
 <br clear="both">
 
-<img align="left" height="425" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY"  />
+<img align="left" height="360" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY"  />
 
 <div align="center">
   <a href="https://mubashir42884.github.io">
-    <img src="portfolio.png" height="120" alt="Portfolio Link" />
+    <img src="portfolio.png" height="100" alt="Portfolio Link" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"" alt="pytorch logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30"" alt="pytorch logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"" alt="r logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="50" alt="autocad logo"  />
+  <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
 </div>
 
 
@@ -81,44 +79,43 @@
 
   <h3>📘 Academic & Professional Links</h3>
   <a href="https://scholar.google.com/citations?user=L6Esq54AAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Scholar-%2320beff?color=E6F4FF&logo=google-scholar&style=for-the-badge" height="35" alt="Google Scholar Logo" />
+    <img src="https://img.shields.io/badge/Scholar-%2320beff?color=E6F4FF&logo=google-scholar&style=for-the-badge" height="30" width="110" alt="Google Scholar Logo" />
   </a>
   <a href="https://orcid.org/0009-0008-7205-0855">
-      <img src="https://img.shields.io/badge/ORCID-%23187656?color=E6FFF4&logo=orcid&style=for-the-badge" height="35" alt="ORCID Logo" />
+      <img src="https://img.shields.io/badge/ORCID-%23187656?color=E6FFF4&logo=orcid&style=for-the-badge" height="30" width="110" alt="ORCID Logo" />
   </a>
   <a href="https://www.linkedin.com/in/mubashir-mohsin/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?color=E6F4FF&logo=linkedin&logoColor=0077B5&style=for-the-badge" height="35" alt="LinkedIn Logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?color=E6F4FF&logo=linkedin&logoColor=0077B5&style=for-the-badge" height="30" width="110" alt="LinkedIn Logo" />
   </a>
   <a href="mailto:mubashir.mohsin.42884@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-%23D14836?color=FFE6E6&logo=gmail&style=for-the-badge" height="35" alt="Gmail Logo" />
+      <img src="https://img.shields.io/badge/Gmail-%23D14836?color=FFE6E6&logo=gmail&style=for-the-badge" height="30" width="110" alt="Gmail Logo" />
   </a>
 
   </br>
   <h3>🌐 Social Media and Others</h3>
   <a href="https://www.datacamp.com/portfolio/MubasirMohsin42884">
-      <img src="https://img.shields.io/badge/DataCamp-%23051A2D?color=03ef62&logo=datacamp&logoColor=05192d&style=for-the-badge" height="35" width="110" alt="DataCamp Logo" />
+      <img src="https://img.shields.io/badge/DataCamp-%23051A2D?color=03ef62&logo=datacamp&logoColor=05192d&style=for-the-badge" height="30" width="110" alt="DataCamp Logo" />
   </a>
   <a href="https://www.kaggle.com/mubashir42884">
-      <img src="https://img.shields.io/badge/Kaggle-%233494E6?color=A7CFFA&logo=kaggle&logoColor=007BFF&style=for-the-badge" height="35" width="110" alt="Kaggle Logo" />
+      <img src="https://img.shields.io/badge/Kaggle-%233494E6?color=A7CFFA&logo=kaggle&logoColor=007BFF&style=for-the-badge" height="30" width="110" alt="Kaggle Logo" />
   </a>
   <a href="https://www.youtube.com/@_MUBA_">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000?color=FFE6E6&logo=youtube&logoColor=FF0000&style=for-the-badge" height="35" width="110" alt="YouTube Logo" />
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000?color=FFE6E6&logo=youtube&logoColor=FF0000&style=for-the-badge" height="30" width="110" alt="YouTube Logo" />
   </a>
   <a href="https://www.instagram.com/non_traceable_entity">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?color=909ED4&logo=instagram&logoColor=CD486B&style=for-the-badge" height="35" width="110" alt="Instagram Logo" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?color=909ED4&logo=instagram&logoColor=CD486B&style=for-the-badge" height="30" width="110" alt="Instagram Logo" />
   </a>
 
 
 </div>
 
 
-
-###
+----
 
 <h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h1>
 <h3 align="left"> Research Interest: AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.</h3>
 
-###
+----
 
 <br clear="both">
 
