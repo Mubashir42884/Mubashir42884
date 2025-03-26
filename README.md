@@ -1,48 +1,3 @@
-<div align="center">
-  <h1>✨ Featured Repositories ✨</h1>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Computer-Vision">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" alt="#1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" alt="#2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Journey-with-NLP-LLMs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-NLP-LLMs&theme=gruvbox&hide_border=true" alt="#6" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<h2 align="center">🌟 My GitHub Contributions</h2>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubashir42884&bg_color=282828&color=f2b72e&line=73c064&point=fe8019&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br clear="both">
 
 <h1 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h1>
@@ -123,13 +78,60 @@
 <br clear="both">
 
 <div align="center">
+  
+  #  ✨ Featured Repositories ✨
+  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Computer-Vision">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" alt="#1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" alt="#2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Journey-with-NLP-LLMs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-NLP-LLMs&theme=gruvbox&hide_border=true" alt="#6" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+
+###  🌟 My GitHub Contributions
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubashir42884&bg_color=282828&color=f2b72e&line=73c064&point=fe8019&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###  GitHub Stats 📊 and Trophies 🏆:
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mubashir42884&color=280F85&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Mubashir42884&color=F2B72E&style=for-the-badge&" height="40" width="220" alt="Profile Views">
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&title=Stars,Followers,Commits,Experince,Repositories,PullRequest,Reviews&theme=gruvbox&margin-w=8&margin-h=4&column=6)
+![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&title=Stars,Followers,Commits,Experince,Repositories,PullRequest,Reviews&theme=gruvbox&hide_border=true&margin-w=8&margin-h=4&column=6)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
