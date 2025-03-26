@@ -39,6 +39,9 @@
 </div>
 
 
+<h2 align="center">🌟 My GitHub Contributions</h2>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mubashir42884&bg_color=282828&color=f2b72e&line=73c064&point=fe8019&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br clear="both">
 
