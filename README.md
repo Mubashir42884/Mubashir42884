@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://mubashir42884.github.io">
-    <img src="portfolio.png" height="140" alt="Portfolio Link" />
+    <img src="portfolio.png" height="120" alt="Portfolio Link" />
   </a>
 </div>
 
