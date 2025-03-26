@@ -96,16 +96,16 @@
   </br>
   <h3>🌐 Social Media and Others</h3>
   <a href="https://www.datacamp.com/portfolio/MubasirMohsin42884">
-      <img src="https://img.shields.io/badge/DataCamp-%23051A2D?color=03ef62&logo=datacamp&logoColor=05192d&style=for-the-badge" height="35" width="120" alt="DataCamp Logo" />
+      <img src="https://img.shields.io/badge/DataCamp-%23051A2D?color=03ef62&logo=datacamp&logoColor=05192d&style=for-the-badge" height="35" width="110" alt="DataCamp Logo" />
   </a>
   <a href="https://www.kaggle.com/mubashir42884">
-      <img src="https://img.shields.io/badge/Kaggle-%233494E6?color=A7CFFA&logo=kaggle&logoColor=007BFF&style=for-the-badge" height="35" width="120" alt="Kaggle Logo" />
+      <img src="https://img.shields.io/badge/Kaggle-%233494E6?color=A7CFFA&logo=kaggle&logoColor=007BFF&style=for-the-badge" height="35" width="110" alt="Kaggle Logo" />
   </a>
   <a href="https://www.youtube.com/@_MUBA_">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000?color=FFE6E6&logo=youtube&logoColor=FF0000&style=for-the-badge" height="35" width="120" alt="YouTube Logo" />
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000?color=FFE6E6&logo=youtube&logoColor=FF0000&style=for-the-badge" height="35" width="110" alt="YouTube Logo" />
   </a>
   <a href="https://www.instagram.com/non_traceable_entity">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?color=909ED4&logo=instagram&logoColor=CD486B&style=for-the-badge" height="35" width="120" alt="Instagram Logo" />
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?color=909ED4&logo=instagram&logoColor=CD486B&style=for-the-badge" height="35" width="110" alt="Instagram Logo" />
   </a>
 
 
