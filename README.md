@@ -121,17 +121,19 @@
 
 <div align="center">
 
-### 📊 GitHub Stats:
+###  GitHub Stats 📊 and Trophies 🏆:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mubashir42884&color=280F85&style=for-the-badge" alt="Profile Views">
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gruvbox&hide_border=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&title=Stars,Followers,Commits,Experince,Repositories,PullRequest,Reviews&theme=gruvbox&margin-w=8&margin-h=4&column=6)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
-  
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&theme=gruvbox&margin-w=10&margin-h=5&column=3)
+![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gruvbox&hide_border=true)
+
+
 
 </div>
 
@@ -142,7 +144,7 @@
 # 🌟 About Me
 
 ### 🎂 Personal Details
-  **Cake Day:** October 12th
+  **Cake Day:** October 12th </br>
   **Email:** [mubashir.mohsin.42884@gmail.com](mailto:mubashir.mohsin.42884@gmail.com)
 
 ### 📚 Education
