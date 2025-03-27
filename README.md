@@ -1,10 +1,13 @@
 <br clear="both">
 
-<h1 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h1>
+<h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h1>
+<h3 align="left"> Research Interest: </h3> AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.
+
+
+----
 
 ###
 
-<br clear="both">
 
 <img align="left" height="360" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY"  />
 
@@ -67,15 +70,9 @@
 
 </div>
 
+<h3 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h3>
 
 ----
-
-<h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h1>
-<h3 align="left"> Research Interest: AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.</h3>
-
-----
-
-<br clear="both">
 
 <div align="center">
   
@@ -93,18 +90,20 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" alt="#2" />
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
         </a>
       </td>
+      </tr>
+      <tr>
       <td align="center">
         <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
@@ -131,7 +130,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mubashir42884&color=F2B72E&style=for-the-badge&" height="40" width="220" alt="Profile Views">
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&title=Stars,Followers,Commits,Experince,Repositories,PullRequest,Reviews&theme=gruvbox&hide_border=true&margin-w=8&margin-h=4&column=6)
+![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&title=Stars,Followers,Commits,Experince,Repositories,PullRequest,Issues,Reviews&theme=gruvbox&hide_border=true&margin-w=8&margin-h=4&column=7)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
