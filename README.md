@@ -1,10 +1,49 @@
 <br clear="both">
 
 <h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h1>
-<h3 align="left"> Research Interest: </h3> AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.
 
-
-----
+<div align="center">
+  
+  #  ✨ Featured Repositories ✨
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Computer-Vision">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" alt="#1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" alt="#2" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
+        </a>
+      </td>
+      </tr>
+      <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Journey-with-NLP-LLMs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-NLP-LLMs&theme=gruvbox&hide_border=true" alt="#6" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
@@ -72,54 +111,9 @@
 
 </br>
 
-<h3 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h3>
-
+<h2 align="center"> Exploring MSc Opportunities in Computer Science🎓 <br/> Advancing AI in ML, DL, CVPR, and Advanced Research💡</h2>
+<h3 align="left"> Research Interest: </h3> AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.
 ----
-
-<div align="center">
-  
-  #  ✨ Featured Repositories ✨
-  
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Computer-Vision">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" alt="#1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" alt="#3" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" alt="#2" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" alt="#4" />
-        </a>
-      </td>
-      </tr>
-      <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Machine-Learning-Odyssey-Bias-to-Brilliance">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Machine-Learning-Odyssey-Bias-to-Brilliance&theme=gruvbox&hide_border=true" alt="#5" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Journey-with-NLP-LLMs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-NLP-LLMs&theme=gruvbox&hide_border=true" alt="#6" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <div align="center">
 
