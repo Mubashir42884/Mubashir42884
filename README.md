@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h1>
+<h1 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>Master of Computer Science student at <a href="https://www.dal.ca/"> Dalhousie University</a>, specialized in AI, ML, and cutting-edge research focused on Healthcare 🩺, Cybersecurity 🛡️, and Data Privacy 🔐</h1>
 
 <div align="center">
   
