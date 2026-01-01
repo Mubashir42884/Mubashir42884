@@ -159,7 +159,12 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <b>PROUD REMIAN! </b> </br> <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_of_DRMC.png" height="75" alt="DRMC" title="DRMC"/> </br> (2009-2019)
+        <b>PROUD REMIAN! </b> <br/>
+        <a href="https://drmc.edu.bd/" target="_blank" >
+          <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_of_DRMC.png" height="75" alt="DRMC" title="DRMC"/>
+        </a>
+        <br/> 
+        (2009-2019)
       </td>
     </tr>
   </tbody>
