@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F2B72E&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Mubashir+Mohsin;Master+of+CS+Student+@+Dalhousie;AI+%7C+Healthcare+%7C+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&duration=3500&weight=800&size=30&pause=100&color=93E4D9&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Mubashir+Mohsin;Master+of+CS+Student+@+Dalhousie;AI+%7C+Healthcare+%7C+Cybersecurity+%7C+Data+Privacy" alt="Typing SVG" />
 
-  <h2 align="center">Turning Data into Insights & Algorithms into Impact 🚀</h2>
+  <h2 align="center">Advancing Trustworthy AI for Healthcare & Medical Systems 🧬</h2>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mubashir-mohsin/">
@@ -33,9 +33,9 @@
         I am a <b>Master of Computer Science</b> student at <a href="https://www.dal.ca/">Dalhousie University</a>, specializing in the intersection of AI and human welfare. My research focuses on making AI systems more reliable in high-stakes environments.
       </p>
       <br/>
-      🔭 <b>Currently working on:</b> Medical Imaging modalities & IoMT.<br/>
-      🎓 <b>Research Interests:</b> Healthcare AI 🩺, Cybersecurity 🛡️, Data Privacy 🔐.<br/>
-      🌱 <b>Learning:</b> Advanced Computer Vision & LLM alignment.<br/>
+      🔭 <b>Currently working on:</b> Reliable AI-integrated Healthcare & IoMT Systems.<br/>
+      🎓 <b>Research Clusters:</b> HealCyD = Healthcare 🩺, Cybersecurity 🛡️, Data Privacy 🔐.<br/>
+      🌱 <b>Learning:</b> Advanced Research Methods, Data Analysis, Computer Vision & LLM alignment.<br/>
     </td>
     <td width="20%" valign="center" align="center">
       <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY" width="100%" />
@@ -54,6 +54,9 @@
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="50" alt="C-sharp" title="C#" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="C++" title="C++" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=matlab&theme=dark" height="50" alt="MATLAB" title="MATLAB" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br/>
@@ -92,7 +95,7 @@
   <img src="https://github-readme-stats-psi-ten-32.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
   <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gruvbox&hide_border=true" height="180" alt="Streak" />
+  <img src="https://github-readme-streak-stats-nine-lovat.vercel.app/?user=Mubashir42884&theme=gruvbox&hide_border=true" height="180" alt="Streak" />
 </div>
 
 <br/>
@@ -148,10 +151,15 @@
         <i>AIUB</i> (2020 - 2024)
       </td>
       <td valign="top">
-        <b>Research Intern</b> (2024-Present)<br/>
+        <b>Research Student</b> (2024-Present)<br/>
         <i>Healthcare AI & Medical Imaging</i><br/><br/>
-        <b>Undergraduate RA</b> (2023-2024)<br/>
+        <b>Research Assistant</b> (2023-2024)<br/>
         <i>Interdisciplinary Research Projects</i>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <b>PROUD REMIAN! </b> </br> <img src="https://upload.wikimedia.org/wikipedia/en/5/5d/Logo_of_DRMC.png" height="75" alt="DRMC" title="DRMC"/> </br> (2009-2019)
       </td>
     </tr>
   </tbody>
