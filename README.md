@@ -17,7 +17,7 @@
     <a href="mailto:mubashir.mohsin.42884@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://mubashir42884.github.io">
+    <a href="https://mubashir-portfolio-ochre.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-282828?style=for-the-badge&logo=framer&logoColor=F2B72E" />
     </a>
   </p>
