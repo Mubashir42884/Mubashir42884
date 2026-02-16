@@ -23,6 +23,37 @@
   </p>
 </div>
 
+<h2 align="center">✨ Featured Projects</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Computer-Vision">
+          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
+          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
+          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
+          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 <hr/>
 
 <table>
@@ -102,37 +133,7 @@
 
 <br/>
 
-<h2 align="center">✨ Featured Projects</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Computer-Vision">
-          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=Computer-Vision&theme=gruvbox&hide_border=true" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network">
-          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=DeepFER-Facial-Expression-Recognition-with-Deep-Neural-Network-and-Attentional-Convolutional-Network&theme=gruvbox&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/Journey-with-PyTorch">
-          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=Journey-with-PyTorch&theme=gruvbox&hide_border=true" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Mubashir42884/90MinsStat-Football-Statistics-WebApp-using-R">
-          <img src="https://github-readme-stats-psi-ten-32.vercel.app/api/pin/?username=Mubashir42884&repo=90MinsStat-Football-Statistics-WebApp-using-R&theme=gruvbox&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br/>
 
 <h2 align="center">🎓 Academic & Professional Journey</h2>
 <table align="center" width="90%">
